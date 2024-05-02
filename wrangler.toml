@@ -1,0 +1,21 @@
+name = "leetcodeapi-s"
+compatibility_date = "2023-12-01"
+
+# [vars]
+# MY_VAR = "my-variable"
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "leetcodeapi"
+database_id = "0b74a4ed-2cfd-4430-9da3-82b7ba1dfb81"
+
+# [ai]
+# binding = "AI"
